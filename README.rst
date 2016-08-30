@@ -17,11 +17,11 @@ To install and use it type the command below:
 
 You will then have four new commands available in your shell: dpsql, dcreatedb, ddropdb, and dpg_dump. They allow you to connect, create, drop, dump, and import a database. If you want to add additional features feel free to fork this repository and make a merge request.
 
-All the bash command have -C (container) option  that you can use like below:
+All the bash command have -c (container) option  that you can use like below:
 
 .. code-block:: bash
 
-    dpsql -C CONTAINER_NAME -U user_name
+    dpsql -c CONTAINER_NAME -U user_name
 
 Last but not least all the scripts contain a useful help message to know how to use them.
 
