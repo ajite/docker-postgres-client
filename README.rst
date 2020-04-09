@@ -1,3 +1,6 @@
+**WARNING:** This repository is no longer maintained since there are better way to do it through docker command line. These Python scripts are totally unnecessary and give fewer options. I did not have a good understanding of docker at that time.
+
+
 .. image:: https://travis-ci.org/ajite/docker-postgres-client.svg?branch=master
     :target: https://travis-ci.org/ajite/docker-postgres-client
 .. image:: https://coveralls.io/repos/ajite/docker-postgres-client/badge.svg?branch=master&service=github :target: https://coveralls.io/github/ajite/docker-postgres-client?branch=master
